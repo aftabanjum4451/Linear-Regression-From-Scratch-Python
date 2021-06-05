@@ -13,6 +13,7 @@ This problem has the following inputs:
 5. Suction side displacement thickness, in meters.
 
 The only output is:
+
 6. Scaled sound pressure level, in decibels.
 
 (https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise#)

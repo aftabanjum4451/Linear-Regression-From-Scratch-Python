@@ -4,7 +4,8 @@
 ## Dataset
 The NASA data set comprises different size NACA 0012 airfoils at various wind tunnel speeds and angles of attack. The span of the airfoil and the observer position were the same in all of the experiments.
 
-Attribute Information:
+## Data set Attribute Information:
+
 This problem has the following inputs:
 1. Frequency, in Hertzs.
 2. Angle of attack, in degrees.
